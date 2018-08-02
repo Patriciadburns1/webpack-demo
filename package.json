@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "Demo Webpack setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patriciadburns1/webpack-demo.git"
+  },
+  "author": "Patricia Burns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patriciadburns1/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/Patriciadburns1/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
